@@ -1,4 +1,4 @@
-# GTC Start Wars Repo
+# GTC Star Wars Repo
 
 ![./GlixTheCowboy_JustBlackLogo.png](Glix The Cowboy Logo)
 
