@@ -1,6 +1,6 @@
 # GTC Star Wars Repo
 
-<img src="./RazorCrestVet.png" alt="Razor Crest" width="200"/>
+<img src="./RazorCrest_White.png" alt="Razor Crest" width="200"/>
 
 Repositório con informações básicas sobre Star Wars.
 Utilizado como exercício para o curso de Git e Github.
