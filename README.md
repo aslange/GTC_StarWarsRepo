@@ -1,5 +1,6 @@
 # GTC Star Wars Repo
 
-![./GlixTheCowboy_JustBlackLogo.png](Glix The Cowboy Logo)
+![Glix The Cowboy Black Logo](./GlixTheCowboy_JustBlackLogo.png?raw=true "Glix The Cowboy Logo")
 
-Este repositório serve de exemplo para o curso de Git e Github.
+Repositório con informações básicas sobre Star Wars.
+Utilizado como exercício para o curso de Git e Github.
