@@ -4,3 +4,10 @@ Master Yoda
 Hunter
 Echo
 Omega
+Wrecker
+Tech
+Echo
+Omega
+Cid
+Rex
+Rey
