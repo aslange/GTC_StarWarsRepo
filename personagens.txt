@@ -1,7 +1,10 @@
 Luke Skywalker
 Obi Wan Kenobi
 Master Yoda
+Hunter
 Wrecker
 Tech
-Rex
+Echo
+Omega
 Cid
+Rex
