@@ -8,3 +8,4 @@ Echo
 Omega
 Cid
 Rex
+Rey
